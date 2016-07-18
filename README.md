@@ -1,2 +1,4 @@
 # 1.Wages-Caculator
-fiMy rst project
+my first project.
+
+This is calculaor of wages easily based on web-service.
